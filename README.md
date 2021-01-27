@@ -1,1 +1,1 @@
-# Print-all-thr-prime-number-till-n
+# Print-all-the-prime-number-till-n
